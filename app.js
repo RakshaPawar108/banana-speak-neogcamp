@@ -11,7 +11,7 @@ function getTranslationURL(text) {
 
 // Error Handler
 function errorHandler(error) {
-  console.log("Error Occured " + error);
+  console.log("Error Occurred " + error);
 }
 
 // Event Handlers
